@@ -1,1 +1,1 @@
-print("print")
+print("Welcome to maple land")
